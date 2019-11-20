@@ -21,3 +21,7 @@ function inc(n) {
 function dec(n) {
   return n-=1;
 }
+
+makeInt(a, 10) {
+  return a;
+}
