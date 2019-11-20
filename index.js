@@ -22,6 +22,6 @@ function dec(n) {
   return n-=1;
 }
 
-makeInt(a, 10) {
+makeInt(n, 10) {
   return a;
 }
